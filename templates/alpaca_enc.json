@@ -1,0 +1,5 @@
+{
+    "description": "Template used for training TTS in LLaMA with LoRA adaptor",
+    "tts_input": "\n",
+    "response_split": "\n"    
+}

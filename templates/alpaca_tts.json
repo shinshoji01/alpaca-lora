@@ -1,0 +1,5 @@
+{
+    "description": "Template used for training TTS in LLaMA with LoRA adaptor",
+    "tts_input": "Below is an instruction that describes a task followed by the transcript and its phoneme sequence. Write a response that appropriately completes the request.\n\n### Instruction:\nGenerate a speech of the following transcript.\n\n### Transcript:\n{text}\n\n### Phonemes:\n{phonemes}\n\n### Response:\n",
+    "response_split": "### Response:"    
+}
